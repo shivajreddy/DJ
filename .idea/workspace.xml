@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cf182e3-96a6-4929-a642-0de0c242a3ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/Activate.ps1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
@@ -797,7 +803,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664883068754</updated>
-      <workItem from="1664883069978" duration="77000" />
+      <workItem from="1664883069978" duration="389000" />
     </task>
     <servers />
   </component>
